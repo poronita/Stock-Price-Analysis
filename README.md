@@ -67,6 +67,13 @@ The analysis involves forecasting stock prices using multiple machine learning m
 
 The analysis provided a multifaceted understanding of the BNI stock prices using different machine learning models. The Linear Regression model, despite its simplicity, yielded the best results in terms of MAE for this dataset. Such forecasting models are invaluable for making informed decisions in stock trading, though they should be used cautiously considering the inherent unpredictability of the stock market.
 
+## Jupyter Notebook
+
+To dive deeper into the analysis, you can explore the Jupyter notebook where the entire analysis, code, and visualizations are documented:
+
+- [Jupyter Notebook](https://github.com/poronita/Stock-Price-Analysis/blob/main/Stock_Price_Analysis.ipynb)
+
+Feel free to review the notebook for a detailed walkthrough of the analysis process and findings.
 
 ### Getting Started
 
