@@ -12,7 +12,7 @@ Explore historical stock price data for PT Bank Negara Indonesia (BBNI.JK), perf
 
 ## Acknowledgements
 
-I'd like to clarify that I'm only making data about the historical stock price of PT Bank Negara Indonesia (Persero) Tbk. available to Kaggle community.
+I'd like to acknowledge the Kaggle community for providing the dataset and making it available for analysis. You can download the dataset from [this Kaggle dataset link](https://www.kaggle.com/datasets/caesarmario/bank-negara-indonesia-stock-historical-price).
 
 ## Inspiration
 
